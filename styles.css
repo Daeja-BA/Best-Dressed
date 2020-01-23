@@ -1,0 +1,32 @@
+img {
+    width: 120px;
+    width: 120px;
+    font-size: 200px;
+}
+
+.people {
+    border: 10px solid gray;
+    font-size: 15px;
+    background-color: pink;
+    padding: 6px;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+    border: 10px solid pink;
+    font-size: 20px;
+    background-color: white;
+    color: gray;
+    padding: 40px;
+    margin: 10px;
+}
+
+.fashion {
+    border:20px double black;
+    padding:20px;
+    margin:10px;
+    font-size:30px;
+    background-color:pink;
+}
+
